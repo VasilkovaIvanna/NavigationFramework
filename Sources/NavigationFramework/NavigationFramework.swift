@@ -5,6 +5,6 @@ public struct NavigationFramework {
     }
 
     public static func hello(){
-        print("D") 
+        print("D")
     }
 }
